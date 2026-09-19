@@ -60,17 +60,54 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 ## 5. Autoevaluación de la Conferencia (FODA)
 
 ### 5.1 FODA Grupal
-*(Análisis cualitativo del desempeño global del equipo durante la planificación y ejecución de la capacitación).*
 
-| Fortalezas (F) | Oportunidades (O) |
-| :--- | :--- |
-| • *Punto 1* | • *Punto 1* |
-| • *Punto 2* | • *Punto 2* |
+# Analisis FODA - Capacitacion en Ciberseguridad
 
-| Debilidades (D) | Amenazas (A) |
-| :--- | :--- |
-| • *Punto 1* | • *Punto 1* |
-| • *Punto 2* | • *Punto 2* |
+## FORTALEZAS 
+
+| # | Fortaleza | Explicacion |
+|---|---|---|
+| 1 | Excelente coordinacion y trabajo en equipo | La buena comunicacion entre los 6 integrantes facilito todo el proceso, desde la planificacion hasta la ejecucion de la capacitacion. |
+| 2 | Conexion directa con el instituto | Un companero era exalumno del establecimiento, lo que abrio las puertas y facilito el contacto, la aprobacion y la logistica para realizar la actividad. |
+| 3 | Colaboracion de todos los integrantes | Cada miembro aporto en la elaboracion de materiales, diapositivas, actividades y ejecucion de la charla. No hubo sobrecarga para una sola persona. |
+| 4 | Transporte asegurado | Un companero brindo el medio de transporte para llegar al instituto, lo que resolvio un aspecto logistico clave y redujo costos. |
+| 5 | Companerismo y comprension | El grupo fue tolerante y comprensivo ante las dificultades individuales, manteniendo un ambiente positivo y de apoyo mutuo. |
+| 6 | Capacidad para llegar a acuerdos | A pesar de los obstaculos para reunirse, siempre encontraron puntos en comun y soluciones para avanzar en la preparacion. |
+
+---
+
+## DEBILIDADES 
+
+| # | Debilidad | Explicacion |
+|---|---|---|
+| 1 | Ubicacion geografica  | La mayoria vive fuera de la capital, lo que complica los traslados y la puntualidad. |
+| 2 | Retrasos en el punto de encuentro | Se registro un retraso aproximado de **15 minutos** al reunirse en la universidad, producto de la distancia y la logistica de cada uno. |
+| 3 | Horarios academicos diversos | Cada integrante recibe cursos en distintos horarios, lo que dificulto coordinar reuniones de preparacion. |
+| 4 | Compromisos personales nocturnos | Algunos tenian actividades personales por las noches, limitando los espacios disponibles para planificar y ensayar. |
+
+---
+
+## OPORTUNIDADES
+
+| # | Oportunidad | Explicacion |
+|---|---|---|
+| 1 | Vinculo con el instituto educativo | Se creo una relacion que podria abrir puertas para futuras capacitaciones, proyectos colaborativos o actividades de extension universitaria. |
+| 2 | Desarrollo de habilidades blandas | La experiencia les permitio practicar oratoria, liderazgo, ensenanza y manejo de grupos, habilidades muy valiosas para su futuro profesional. |
+| 3 | Materiales reutilizables | Las presentaciones, actividades y recursos creados pueden usarse nuevamente para otras charlas o capacitaciones similares. |
+| 4 | Contactos | Conocieron a personal docente y estudiantes, creando una red de contactos que podria ser util en el futuro. |
+
+---
+
+## AMENAZAS 
+
+| # | Amenaza | Explicacion |
+|---|---|---|
+| 1 | Imprevistos de trafico y transporte | La distancia desde sus hogares hace que el riesgo de retrasos mayores sea constante, dependiendo del trafico o problemas de movilidad. |
+| 2 | Dependencia del transporte de un companero | Si ese companero no puede disponer de su vehiculo en el futuro, la logistica de llegada se complica considerablemente. |
+| 3 | Imprevistos personales | Emergencias o compromisos inesperados de cualquier integrante podrian afectar la asistencia o el desarrollo de la actividad. |
+| 4 | Cambios en la disposicion del instituto | El centro educativo podria cambiar de autoridades, politicas o disponibilidad, cerrando la posibilidad de futuras colaboraciones. |
+
+---
 
 ### 5.2 FODA Individual por Integrante
 

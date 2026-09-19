@@ -10,7 +10,8 @@
   * Nombre Apellido - Carné  
   * Kerner Baltazar Tún Xón - 202505239
   * Cristian David Yumán Gómez - 202502231  
-  * David Meza - 202500708  
+  * David Meza - 202500708
+  * Christian Josué Granados Sabán - 202502343
 * **Fecha de Entrega:** 20/09/2026  
 
 ---
@@ -158,7 +159,7 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 
 | Carné | Nombre Completo | Porcentaje de Participación |
 | :---: | :--- | :---: |
-| XXXXXXXXX | [Nombre Completo del Integrante 1] | 100% |
+| 202502343 | [Christian Josué Granados Sabán] | 100% |
 | XXXXXXXXX | [Nombre Completo del Integrante 2] | 100% |
 | XXXXXXXXX | Cristian David Yumán Gómez | 100% |
 | 202500708 | David Antonio Meza Silva | 100% |
